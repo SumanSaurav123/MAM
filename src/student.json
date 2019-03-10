@@ -1,0 +1,18 @@
+{
+  "student1":{
+    "name":"Shivam Kumar",
+    "roll":"1606228",
+    "email":"1606228@kiit.ac.in",
+    "public_address":"0x86F75DbE0857F963cdF5618608E54FcD8B12792C",
+    "subject" : "C++" 
+  },
+  
+  "student2":{
+    "name":"Soumyadeep Kumar",
+    "roll":"1606227",
+    "email":"1606227@kiit.ac.in",
+    "public_address":"0x5769D374B22A8BE1146AAB22558900839AD799aD",
+    "subject" : "C++"
+  }
+  
+}

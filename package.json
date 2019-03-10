@@ -1,0 +1,25 @@
+{
+  "name": "pet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "@google-cloud/vision": "^0.25.0",
+    "fs": "0.0.1-security",
+    "require": "^2.4.20",
+    "truffle-contract": "^3.0.6",
+    "unirest": "^0.6.0"
+  }
+}
